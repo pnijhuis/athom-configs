@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-presence-sensor-esp8266/athom-presence-sensor-esp8266.ota.bin",
-    "md5": "724cb64ef7c1edf19fa17ab0297582e6"
+    "md5": "11ac01f2a422d282b377574e88ebca84"
   },
   "parts": [
     {
