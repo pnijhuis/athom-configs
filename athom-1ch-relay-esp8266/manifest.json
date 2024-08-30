@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-1ch-relay-esp8266/athom-1ch-relay-esp8266.ota.bin",
-    "md5": "11357e84318b7c6d58fec1556e1c6482"
+    "md5": "3fc13dfa3f1eea4055401a6c9e58b51d"
   },
   "parts": [
     {
