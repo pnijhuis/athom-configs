@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-garage-door-esp8266/athom-garage-door-esp8266.ota.bin",
-    "md5": "17eb3949f0aadcfe0ccb06d870a2cc66"
+    "md5": "a6124bcfabd2d97199fb36d59153510e"
   },
   "parts": [
     {

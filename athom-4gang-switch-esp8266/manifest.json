@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-4gang-switch-esp8266/athom-4gang-switch-esp8266.ota.bin",
-    "md5": "ad7054343a727deb59c4ba0c67fb4e5a"
+    "md5": "12587250e25aff7f713ae543a4eaf7e5"
   },
   "parts": [
     {
