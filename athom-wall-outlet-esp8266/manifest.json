@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-wall-outlet-esp8266/athom-wall-outlet-esp8266.ota.bin",
-    "md5": "d2a9f8b67bf17e6c1ba9db8190ec7cda"
+    "md5": "651c765f5d698b180cb100a5bc8dd490"
   },
   "parts": [
     {
