@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-rgbcw-bulb-esp8266/athom-rgbcw-bulb-esp8266.ota.bin",
-    "md5": "3959d28e3751703d2486b520e8f2a2e4"
+    "md5": "673871ea10728b1a61d695e63f230990"
   },
   "parts": [
     {

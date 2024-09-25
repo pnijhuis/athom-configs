@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-rgb-light-esp8266/athom-rgb-light-esp8266.ota.bin",
-    "md5": "9a80f045b5b65186b637443dfb6cc72c"
+    "md5": "84ffb77a37a0b16f2480b01b3cff6347"
   },
   "parts": [
     {
